@@ -1,0 +1,24 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url('');
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+
+
+a {
+    text-decoration: none;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
